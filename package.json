@@ -1,0 +1,20 @@
+{
+  "name": "final",
+  "version": "14.15.0",
+  "description": "E Commerce Final Project",
+  "main": "FinalWebServer.js",
+  "scripts": {
+    "start": "FinalWebServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostlej61/ECommFinal.git"
+  },
+  "author": "James Ostler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostlej61/ECommFinal/issues"
+  },
+  "homepage": "https://github.com/ostlej61/ECommFinal#readme"
+}
